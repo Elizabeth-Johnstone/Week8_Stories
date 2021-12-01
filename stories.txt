@@ -1,0 +1,9 @@
+Stories
+
+Story #1: Your experience building a certain project
+
+Building the Space Calculator app was an exciting opportunity to bring together the various skill sets I developed over the course of the first half of the Bright Paths immersive software engineering program. This was my first project and my first time creating a full-stack web application. It gave me the opportunity to integrate front-end and back-end skills. I used HTML, CSS, and JavaScript to design the front-end user interface and took advantage of tools such as Axios, Express, CORS, and JSON to connect to the back-end. The JavaScript logic that I spent time developing before and during this program was also necessary in the development of this project, as I had the ability to fix bugs and implement the functionality I wanted. It was greatly satisfying to have created something from scratch that is fully functional and visually pleasing!
+
+Story #2: An experience learning a new technology
+
+I spent a week during the Bright Paths' software engineering program focusing on data and databases. During this time, I learned the basics of Python and SQL. I also familiarized myself with PostgreSQL, SQL Tabs, and DB Designer. While I only spent a short amount of time developing these skills, having a basic understanding of data and data solutions is important to having a broader understanding of the tech field as a whole. I decided to take some of my own time to continue developing my SQL skills. While I am still a beginner, I enjoy learning about these technologies and I hope to deepen my understanding of them along the way.
